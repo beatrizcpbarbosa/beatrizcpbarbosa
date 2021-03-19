@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello there! I'm Bia 🌈
 
-<!--
-**beatrizcpbarbosa/beatrizcpbarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Beatriz Barbosa, but you can call me Bia. 🙋🏼‍♀️
+I'm a brazilian UI/UX designer and Front-end Developer. I'm currently studying  web development (full-stack) at [Trybe](https://www.betrybe.com/) and working as a freelancer.
 
-Here are some ideas to get you started:
+#### My Values and Hobbies
+🧠 Mindset of Learning & Curiosity
+💜 Value versatility 
+🙌 Teamwork & Good communication
+🛼 roller skating lover
+🌎 Passion for traveling and getting to know new cultures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Connect with Me
+📷[Instagram](https://www.instagram.com/beatrizcpbarbosa/) 
+💼[Linkedin](https://www.linkedin.com/in/beatrizcpbarbosa/) 
+🎨[Behance](https://www.behance.net/beatrizcpbarbosa) 
+
+#### Skills
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Photoshop](https://img.shields.io/badge/-photoshop-blue?style=flat-square) ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-ff69b4?style=flat-square) ![Ilustrataor](https://img.shields.io/badge/-Ilustrator-yellow?style=flat-square) ![Figma](https://img.shields.io/badge/-Figma-orange?style=flat-square)
