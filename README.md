@@ -1,7 +1,7 @@
 ### Hello there! I'm Bia 
 
 My name is Beatriz Barbosa, but you can call me Bia. 🙋🏼‍♀️
-I'm a brazilian UI/UX designer and Front-end Developer. I'm currently studying  web development (full-stack) at [Trybe](https://www.betrybe.com/) and working as a freelancer.
+I'm a brazilian UI/UX designer and Front-end Developer. I'm currently studying software development (full-stack) at [Trybe](https://www.betrybe.com/) and working as a freelancer.
 
 #### My Values and Hobbies
 🧠 Mindset of Learning & Curiosity <br>
