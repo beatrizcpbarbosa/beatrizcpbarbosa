@@ -7,7 +7,6 @@ I'm a brazilian UI designer and Front-end Developer. I'm currently studying soft
 🧠 Mindset of Learning & Curiosity <br>
 💜 Value Versatility <br>
 🙌 Teamwork & Good Communication <br>
-🛼 Roller skating lover <br>
 🌎 Passion for traveling and getting to know new cultures <br>
 
 #### Connect with Me
