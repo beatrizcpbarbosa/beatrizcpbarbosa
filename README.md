@@ -1,13 +1,7 @@
 ### Hello there! I'm Bia 
 
 My name is Beatriz Barbosa, but you can call me Bia. 🙋🏼‍♀️
-I'm a brazilian UI designer and Front-end Developer. I'm currently studying software development (full-stack) at [Trybe](https://www.betrybe.com/) and working as a front end developer at Castle Digital.
-
-#### My Values and Hobbies
-🧠 Mindset of Learning & Curiosity <br>
-💜 Value Versatility <br>
-🙌 Teamwork & Good Communication <br>
-🌎 Passion for traveling and getting to know new cultures <br>
+I'm a brazilian UI designer and Front-end Developer. I'm currently working as a front end developer at Castle Digital.
 
 #### Connect with Me
 - [Instagram](https://www.instagram.com/beatrizcpbarbosa/) <br>
