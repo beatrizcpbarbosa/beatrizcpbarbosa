@@ -1,12 +1,10 @@
 ### Hello there! I'm Bia 
 
 My name is Beatriz Barbosa, but you can call me Bia. 🙋🏼‍♀️
-I'm a brazilian UI designer and Front-end Developer. I'm currently working as a front end developer at Castle Digital.
+I'm a front-end developer with experience in e-commerce, Html, Css, JavaScript, TypeScript, React, React Hooks, Redux, Tailwind, Material-ui, Styled Components, Context API, Rest API, PWA, Magento, Graphql, ApolloClient, Hasura, UX/UI design, among others.
 
 #### Connect with Me
-- [Instagram](https://www.instagram.com/beatrizcpbarbosa/) <br>
 - [Linkedin](https://www.linkedin.com/in/beatrizcpbarbosa/) <br>
-- [Behance](https://www.behance.net/beatrizcpbarbosa) <br>
 
 #### Skills
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white)
